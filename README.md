@@ -10,7 +10,9 @@
   - Java
   - NoSQL (MongoDB)
   - SQL (Microsoft SQL Server)
-
+### 📫 Reach Me !
+  - 📧 ozel.umut.tam@gmail.com
+  - 📧 ozel.umut.tam@protonmail.com
 
 <!--
 **OzelTam/OzelTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
