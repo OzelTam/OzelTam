@@ -2,7 +2,7 @@
   Hi There I'am A student that studies Chemical Engineering at Ege University and Business at Istanbul University. <br/> And last but not least, I love computers 💞.
 ### Some of my Skills 🌟
   - C#
-  - VB.NET
+  - ASP.NET
   - Python
   - Javascript
   - HTML/CSS
