@@ -11,7 +11,7 @@
   - NoSQL (MongoDB)
   - SQL (Microsoft SQL Server)
 ### 📫 Reach Me !
-  - 📧 ozel.umut.tam@gmail.com
+  - 📧 ozel.umut.tam.biz@gmail.com
   - 📧 ozel.umut.tam@protonmail.com
 
 <!--
