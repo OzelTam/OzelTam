@@ -3,8 +3,9 @@
 ### Some of my Skills 🌟
   - C#
   - ASP.NET
-  - Python
+  - React.js
   - Javascript
+  - Python
   - HTML/CSS
   - Matlab
   - Java
